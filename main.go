@@ -6,7 +6,11 @@ import "fmt"
 
 	
 
-func GetList() {
+func TeachNET() {
      // TODO code 
+}
+
+func SetDataset() {
+    // TODO code 
 }
 
